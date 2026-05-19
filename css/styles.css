@@ -1,0 +1,635 @@
+header {
+    background-color: #833AE1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+header a {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 0%;
+    color: #FFF;
+}
+
+.ssulky {
+    display: flex;
+    gap: 95px;
+}
+
+.logo {
+    width: 42px;
+    height: 53px;
+    opacity: 1px;
+    top: 20px;
+    left: 30px;
+    object-fit: contain;
+
+}
+
+
+
+.sotseti {
+    display: flex;
+    justify-content: center;
+    gap: 53.76px;
+    margin-bottom: 39px;
+}
+
+.footer-center {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: Italic;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.footer-left {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: Italic;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.footer-right {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: Italic;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.sotseti a {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-decoration: none;
+}
+
+footer {
+    background: #FBF9F9;
+    padding-bottom: 35px;
+    padding-left: 30.84px;
+    padding-right: 30.84px;
+    padding-top: 26px;
+    max-width: 100%;
+}
+
+.linia {
+    height: 2px;
+    background-color: #602B7A;
+    margin-bottom: 24px;
+}
+
+.footer-text {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.linia-1 {
+    border-width: 2px;
+    border: 2px solid #602B7A;
+    margin-bottom: 124px;
+}
+
+.sotseti p {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0%;
+
+}
+
+.line-title {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    color: #602B7A;
+    margin-bottom: 10px;
+
+}
+
+.name-student {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: #602B7AF5;
+    margin-bottom: 25px;
+}
+
+.age {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    color: #602B7AF5;
+    margin-bottom: 42px;
+}
+
+.student-info p {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    color: #602B7AF5;
+}
+
+.student-section {
+    padding-top: 32px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 98px;
+}
+
+.Gordon {
+    width: 320px;
+    height: 369px;
+    border-radius: 25px;
+    object-fit: cover;
+}
+
+.student-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.zagolovok {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 45px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #833AE1;
+    margin-bottom: 43px;
+}
+
+.banner-text {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 50px;
+    line-height: 78px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #833AE1;
+    margin-bottom: 23px;
+}
+
+.algoritmika {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 50px;
+    line-height: 78px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #833AE1;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: fit-content;
+}
+
+.banner {
+    padding-top: 127px;
+    padding-bottom: 145px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding-left: 146px;
+    padding-right: 146px; */
+}
+
+.okurse {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    color: #602B7A;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.linia-2 {
+    border: 2px solid #602B7A;
+    margin-bottom: 42px;
+}
+
+.kurs-p-1 {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #602B7A;
+    margin: 69px;
+}
+
+.ot-idei {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    margin-bottom: 91px;
+    padding-top: 28px;
+    padding-bottom: 53.05px;
+    padding-right: 24.92px;
+    padding-left: 50.74px;
+    width: fit-content;
+    margin: 0 auto 91px;
+}
+
+.ot-idei-p {
+    color: #833AE1;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 50px;
+    line-height: 63px;
+    letter-spacing: 0%;
+}
+
+.do-razrabotki-p {
+    color: #A5DC31;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 50px;
+    line-height: 63px;
+    letter-spacing: 0%;
+
+}
+
+.kurs {
+    background: linear-gradient(180deg, rgba(203, 248, 109, 0.49) 4.17%, rgba(203, 248, 109, 0.5) 18.23%, #FBF9F9 67.19%);
+    padding-top: 32px;
+    padding-bottom: 56px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.znania {
+    border: 1px solid #833AE1;
+    background: #FFFFFF;
+    padding-top: 25px;
+    padding-left: 37.39px;
+    padding-right: 35px;
+    padding-bottom: 47px;
+    border-radius: 15px;
+    width: 575px;
+}
+
+.krug {
+    border: 1px solid #602B7AF5;
+    border-radius: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 23.88px;
+    padding-right: 23.88px;
+    width: fit-content;
+    margin: auto 0;
+    max-width: 100px;
+    width: 100px;
+    max-height: 100px;
+    height: 100px;
+    background-color: #FFF;
+}
+
+.znania-zagolovok {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 26px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    color: #602B7AF5;
+}
+
+.p-box {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: #602B7AF5;
+}
+
+.two-boxes {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.znania-30px {
+    border: 1px solid #833AE1;
+    background: #FFFFFF;
+    padding-top: 25px;
+    padding-left: 36.13px;
+    padding-right: 32.31px;
+    padding-bottom: 112px;
+    border-radius: 15px;
+    margin-left: 30px;
+    width: 575px;
+}
+
+.znania-1 {
+    border: 1px solid #833AE1;
+    background: #FFFFFF;
+    padding-top: 25px;
+    padding-left: 34.63px;
+    padding-right: 31.62px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+    width: 551.111083984375px;
+    margin: 0 auto 56px;
+}
+
+.zagolovok-znania-div {
+    display: flex;
+    gap: 23.11px;
+    align-items: center;
+    margin-bottom: 26px;
+}
+
+.krug-1 {
+    border: 1px solid #602B7AF5;
+    border-radius: 50px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    padding-left: 23.04px;
+    padding-right: 22.96px;
+    width: fit-content;
+    margin: auto 0;
+    background-color: #FFF;
+    max-width: 100px;
+    width: 100px;
+    max-height: 100px;
+    height: 100px;
+}
+
+.krug-2 {
+    border: 1px solid #602B7AF5;
+    border-radius: 50px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 15.04px;
+    padding-right: 16.96px;
+    width: fit-content;
+    margin: auto 0;
+    background-color: #FFF;
+    max-width: 100px;
+    width: 100px;
+    max-height: 100px;
+    height: 100px;
+}
+
+.concole {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 35px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: #602B7AF5;
+}
+
+.zagolovok-znania-div-1 {
+    display: flex;
+    gap: 23.11px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.zagolovok-znania-div-2 {
+    display: flex;
+    gap: 23.11px;
+    align-items: center;
+    margin-bottom: 33px;
+}
+
+.Techno {
+    padding-bottom: 69px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Technolog {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    color: rgba(96, 43, 122, 1);
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.linia-3 {
+    border: 2px solid rgba(96, 43, 122, 1);
+    margin-bottom: 125px;
+    width: 100%;
+}
+
+.eight-techno {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 64px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(96, 43, 122, 0.96);
+    margin-bottom: 45px;
+}
+
+.techno-info {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(96, 43, 122, 0.96);
+    margin-bottom: 56px;
+}
+
+.info-div {
+    border-radius: 18px;
+    border: 1px solid rgba(96, 43, 122, 0.96);
+    height: 88px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    width: 100%;
+    max-width: 500px;
+}
+
+.info-shrift {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
+.info-boxes-left {
+    display: flex;
+    flex-direction: column;
+    margin-right: 70px;
+    width: 50%;
+}
+
+.info-div-end {
+    border-radius: 18px;
+    border: 1px solid rgba(96, 43, 122, 0.96);
+    height: 88px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.techno-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    max-width: 1070px;
+}
+
+.info-boxes-right {
+    width: 50%;
+}
+
+header a {
+    transition: 0.5s;
+}
+
+header a:hover {
+    transform: scale(1.2);
+}
+
+.banner a:hover {
+    transition: 0.5s;
+    background-color: #FFF;
+    color: #833AE1;
+}
+
+.banner a {
+    border: 1px solid #833AE1;
+}
+
+.znania:hover {
+    background-color: #833AE1;
+    color: #FFF;
+    transition: 0.5s;
+}
+
+.znania:hover p {
+    color: #FFF;
+}
+
+.znania:hover img {
+    transform: scale(0.9);
+}
+
+.znania:hover .krug {
+    transform: scale(0.9);
+}
+
+.znania-30px:hover {
+    background-color: #833AE1;
+    color: #FFF;
+    transition: 0.5s;
+}
+
+.znania-30px:hover p {
+    color: #FFF;
+}
+
+.znania-30px:hover img {
+    transform: scale(0.9);
+}
+
+.znania-30px:hover .krug-1 {
+    transform: scale(0.9);
+}
+
+.znania-1:hover {
+    background-color: #833AE1;
+    color: #FFF;
+    transition: 0.5s;
+}
+
+.znania-1:hover .p-box {
+    color: #FFF;
+}
+
+.znania-1:hover img {
+    transform: scale(0.9);
+}
+
+.znania-1:hover .krug-2 {
+    transform: scale(0.9);
+}
+.znania-1:hover .znania-zagolovok {
+    color: #FFF;
+}
+.znania-30px:hover .concole {
+    color: #602B7AF5;
+}
